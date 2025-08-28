@@ -6,12 +6,6 @@ It integrates features such as USB charging ports, a built-in rechargeable batte
 
 ---
 
-## 📑 Project Photos
-
-
-
----
-
 ## 🛠 Components Used
 - Rechargeable Battery (Eastar ICR18650)  
 - LM2596 Step-Down Converter  
