@@ -6,8 +6,9 @@ It integrates features such as USB charging ports, a built-in rechargeable batte
 
 ---
 
-## 📑 Project Report
-👉 [View Full Report](Multifunctional%20Desk%20Lamp.pdf)
+## 📑 Project Photos
+
+
 
 ---
 
